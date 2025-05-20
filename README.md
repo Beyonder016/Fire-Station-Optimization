@@ -30,7 +30,11 @@ This project optimizes the location of fire stations in Washington, D.C. by iden
 - `fire_station_analysis.ipynb` – Full notebook (Colab-ready)
 
 ## 📍 Visuals
-![Map Example](visuals/screenshot.png)
+| Map Type               | Live Link |
+|------------------------|-----------|
+| 🟧 Building Density     | [View Map](https://beyonder016.github.io/Fire-Station-Optimization/interactive/building_density_map.html) |
+| 🟥 Existing Stations    | [View Map](https://beyonder016.github.io/Fire-Station-Optimization/interactive/existing_fire_stations_map.html) |
+| 🔵 Proposed Stations    | [View Map](https://beyonder016.github.io/Fire-Station-Optimization/interactive/proposed_fire_stations_map.html) |
 
 ## 📜 License
 MIT
