@@ -30,7 +30,7 @@ This project optimizes the location of fire stations in Washington, D.C. by iden
 - `fire_station_analysis.ipynb` – Full notebook (Colab-ready)
 
 ## 📍 Visuals
-![Map Example](visuals/screenshot.png)
+![Map Example](DC_Emergency_Optimization_Map.html)
 
 ## 📜 License
 MIT
