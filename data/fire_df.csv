@@ -1,0 +1,512 @@
+X,Y,NAME,ADDRESS,ZIP,PHONE,TYPE,BATTALION,WARD,HISTORY_DESCRIPTION,NEAREST_BUS_STOP,NEAREST_METRO,LATITUDE,LONGITUDE,XCOORD,YCOORD,MAR_ID,GIS_ID,GLOBALID,OBJECTID,SE_ANNO_CAD_DATA,CREATED_DATE,LAST_EDITED_DATE
+-8573582.81534276,4704899.05053341,Engine Company 13,501 4TH STREET SW,20024,(202) 673-3213,Engine House 13,6,6,"Organized: November 26, 1904.
+
+Original apparatus: 1904 American LaFrance 70 gallon Combination Chemical Hose Wagon 1904 American LaFrance Metropolitan 700 gpm steam fire engine.
+
+1st Location: 942 G Street SW.
+
+2nd Location: New firehouse 450 6th Street SW with Truck Co.10 and the Foam Unit.
+
+Current apparatus: 2005 Seagrave 1250 gpm pumper.
+
+Engine 13
+Ambulance 13
+Truck Company 10
+Foam Unit 1
+Foam Unit 2
+Twinned Agent Unit 1
+Foam Unit Trailer",70 71,L'Enfant Plaza,38.882793,-77.017572,398441.4,135024.88,311526,Fire_023,{94E9C818-92E2-4A28-87C5-E5731A298179},1,,,2024/12/04 22:10:00+00
+-8572524.29025389,4714350.86995632,Engine Company 14,4801 NORTH CAPITOL STREET NE,20011,(202) 673-3214,Engine House 14,1,5,"Organized: June 8, 1898.
+
+Original apparatus: Unknown make Hose Reel Carriage 1891 Clapp & Jones 1000 gpm steam fire engine.
+
+1st Location: 413 8th Street NW.
+
+2nd Location: New firehouse 4801 North Capitol Street NE with Rescue Squad No, 2 on June 14, 1945.
+
+Current apparatus: 2003 Seagrave 1250 gpm pumper.
+
+Engine 14
+Ambulance 14
+Medic Unit 14 ",60 64,Fort Totten,38.94886631,-77.00829364,399281.07,142329.91,288276,Fire_002,{81BA98DD-8623-4CCC-8368-D6376A02D9A7},2,,,
+-8570050.68110337,4702334.26510961,Engine Company 15,2101 14TH STREET SE,20020,(202) 673-3215,Engine House 15,3,8,"Organized: April 15, 1898.
+
+Original apparatus: Unknown make Hose Reel Carriage 1883 Clapp & Jones 450 gpm steam fire engine.
+
+1st Location: 1345 V St. S.E. 2nd Location: New firehouse 2101 14th Street SE (same site) on December 7, 1968.
+
+Current apparatus: 2005 Seagrave 1250 gpm pumper.
+
+Engine 15
+Battalion Fire Chief 3
+EMS 3
+Ambulance 15
+Rescue Squad 3
+Cave-In Unit
+CISU
+CSU-3
+Rescue Squad 3 Support Unit",U2,Anacostia,38.86481438,-76.9860209,401208.69,133005.19,156246,Fire_031,{50E73988-93A6-4937-BF1F-335210C8D57E},3,,,
+-8574942.36988595,4707832.2171323,Engine Company 16,1018 13TH STREET NW,20005,(202) 673-3216,Engine House 16,6,2,"Organized: October 24, 1904. Replaced 1st Chemical Co. 1.
+
+Original apparatus: Unknown make Hose Reel Carriage 1886 Amoskeag 700 gpm steam fire engine.
+
+1st Location: 1204 D Street NW in Chemical 1 firehouse (originally Franklin Fire Company then Engine Co. 2).
+
+2nd Location: New firehouse 15th & D Streets NW.
+
+3rd Location: With Truck Co. 3 and Water Tower No. 1 at 14th & Ohio Ave. NW on June 30, 1931.
+
+4th Location: New firehouse 1018 13th Street NW with Truck Co. 3 and Water Tower 1.
+
+Current apparatus: 2006 Seagrave 1250 gpm pumper.
+
+Engine 16
+Tower 3
+Ambulance 16
+Deputy Fire Chief of Operations
+EMS 8
+",66 68,McPherson Square,38.90331067,-77.03001561,397396.45,137273.24,240645,Fire_024,{0AA98376-D7BF-4603-A082-98FE2859510D},4,,,
+-8570479.85871469,4711983.63066156,Engine Company 17,1227 MONROE STREET NE,20017,(202) 673-3217,Engine House 17,1,5,"Organized: April 22, 1905 Replaced Chemical Co. 4.
+
+Original Apparatus: 1901 C.T. Holloway 70 gallon Combination Chemical Hose Wagon 1904 American LaFrance Metropolitan 500 gpm steam fire engine.
+
+1st Location: 1227 Monroe Street NE in Chemical 4 firehouse.
+
+Current Apparatus: 2005 Seagrave 1250 gpm pumper.
+
+Engine 17
+Medic Unit 17",G8,Brookland-CUA,38.93237829,-76.98990641,400873.27,140493.83,294510,Fire_008,{FB9D10BE-A87C-4DC2-B34C-E352C8C58C3B},5,,,
+-8575281.55693195,4711972.22040764,Engine Company 11,3420 14TH STREET NW,20010,(202) 673-3211,Engine House 11,4,1,"Organized: July 1, 1897 Replaced 1st Chemical Co. 2.
+
+Original apparatus: 1886 McDermott Hose Reel Carriage 1885 Clapp & Jones 450 gpm steam fire engine.
+
+1st Location: 3119 14th Street NW in Chemical 2 firehouse.
+
+2nd Location: With Truck Co. 6 at 1338 Park Rd. NW on June 4, 1940.
+
+3rd Location: New firehouse 3420 14th Street NW with Truck 6 and Battalion Chief 4 on June 5, 1984.
+
+Current apparatus: 2005 Seagrave 1250 gpm pumper.
+
+Engine 11
+Battalion Fire Chief 4
+EMS 4
+Ambulance 11
+Truck Company 6
+WS-54",52-54,Columbia Heights,38.93224649,-77.03306259,397133.32,140485.45,234580,Fire_012,{FA3B4517-46DA-4719-9C6C-4F7F8253595F},6,,,
+-8571004.02126132,4704964.34308055,Engine Company 18,414 8TH STREET SE,20003,(202) 673-3218,Engine House 18,2,6,"Organized: November 18, 1905.
+
+Original apparatus: 1898 McDermott Hose Reel Carriage 1905 American LaFrance Metropolitan 600 gpm steam fire engine.
+
+1st Location: 1001 9th Street SE.
+
+2nd Location: With Truck Co. 7 at 414 8th Street SE on June 30, 1940.
+
+Current apparatus: 2008 Seagrave 1250 gpm pumper.
+
+Engine 18
+Ambulance 18
+Truck Company 7",90 92 93,Eastern Market,38.88325925,-76.99463684,400465.33,135046.96,280007,Fire_020,{A0D20D93-9F1A-4F86-9A2E-940B34125CF4},7,,,
+-8567926.08617592,4703296.57374859,Engine Company 19,2813 PENNSYLVANIA AVENUE SE,20003,(202) 673-3219,Engine House 19,3,7,"(1st) Fire Boat.
+
+1905 - 1920.
+
+Organized: December 9, 1905.
+
+Original Apparatus: 1905 Harlan & Hollingsworth 6000 gpm steam powered 6000 gpm fireboat.
+
+1st Location: Water Street near 7th Street SW.
+
+Renamed Fire Boat 1 in 1920.
+
+Engine 19
+Ambulance 19
+Medic Unit 19",M6,Stadium-Armory,38.87159604,-76.96698729,402864.79,133752.76,44167,Fire_005,{48AD5308-6201-48B6-B760-DEE507A5B170},8,,,
+-8580331.03822399,4713793.68767541,Engine Company 20,4300 WISCONSIN AVENUE NW,20037,(202) 673-3220,Engine House 20,5,3,"Organized: January 23, 1907 Replaced 1st Chemical 3.
+
+Original Apparatus: 1907 Seagrave 70 gallon Combination Chemical Hose Wagon. 1906 American LaFrance Metropolitan 500 gpm steam fire engine.
+
+Location: 4300 Wisconsin Ave. NW in Chemical 3 firehouse.
+
+Current Apparatus: 2003 Pierce 1250 gpm pumper.
+
+Engine 20
+Battalion Fire Chief 5
+EMS 5
+Ambulance 20
+Truck Company 12",H2 H3 H4,Tenleytown | AU,38.94497358,-77.07842283,393201.59,141900.67,222965,Fire_016,{6127D949-5D77-46E1-9192-32F4DB64FD31},9,,,
+-8576300.4499107,4710902.52133692,Engine Company 21,1763 LANIER PLACE NW,20009,(202) 673-3221,Engine House 21,5,1,"Organized: December 28, 1908.
+
+Original Apparatus: 1908 American LaFrance 70 gallon Combination Chemical Hose Wagon. 1907 American LaFrance Metropolitan 700 gpm steam fire engine.
+
+Location: 1763 Lanier Pl. NW.
+
+Current Apparatus: 2006 Seagrave 1250 gpm pumper.
+
+Engine 21
+Medic Unit 21
+WS-E-55",H5,Woodley Park-Zoo/Adams Morgan,38.92477115,-77.04221546,396339.34,139655.95,236004,Fire_013,{23D44C65-9A5A-4D43-B483-CC560AA82D7B},10,,,
+-8574562.95199741,4717865.95496159,Engine Company 22,6825 GEORGIA AVENUE NW,20005,(202) 673-3222,Engine House 22,4,4,"Organized: December 2, 1908 Replaced 2nd Chemical 2.
+
+Original apparatus: 1901 C.T. Holloway 70 gallon Combination Chemical Hose Wagon 1908 American LaFrance Metropolitan 500 gpm steam fire engine.
+
+Location: 6825 Georgia Ave. NW in Chemical 2 firehouse.
+
+Current apparatus: 2003 Pierce 1250 gpm pumper.
+
+Engine 22
+Ambulance 22
+Truck Company 11",70 71,Takoma,38.973459,-77.026875,397694.36,145055.83,253890,Fire_001,{827E72D6-5B17-4935-9B82-0AAE0F327137},11,,,
+-8576902.61398686,4707155.89963637,Engine Company 23,2119 G STREET NW,20037,(202) 673-3223,Engine House 23,6,2,"Organized: November 25, 1910.
+
+Original Apparatus: 1908 US Fire Apparatus 70 gallon Combination Chemical Hose Wagon. 1909 American LaFrance Metropolitan 700 gpm steam fire engine.
+
+Location: 2119 G Street NW.
+
+Current Apparatus: 2006 Seagrave 1250 gpm pumper.
+
+Engine 23
+Ambulance 23",80,Foggy Bottom-GWU,38.89858254,-77.04762479,395868.76,136749.03,242505,Fire_027,{E78DFAC9-0C1B-465A-915A-246FEC0B7856},12,,,
+-8574624.66074068,4714814.96121675,Engine Company 24,5101 GEORGIA AVENUE NW,20011,(202) 673-3224,Engine House 24,4,4,"Organized: November 28, 1911 First motorized company.
+
+Original Apparatus: 1911 Waterous 500 gpm combination pumper/hose wagon. Ran single piece combination. Original two piece apparatus: 1912 James Boyd 50 gallon Combination Chemical Hose Wagon. 1912 Ahrens Fox 700 gpm steam fire engine.
+
+1st Location: 3702 Georgia Ave, NW.
+
+2nd Location: 5101 Georgia Ave. NW.
+
+Current Apparatus: 2006 Seagrave 1250 gpm pumper.
+
+Engine 24
+Rescue Squad 2
+Medic Unit 24
+MCU-1
+Arson Investigation
+MAB-1
+MAB-2
+MCSU-1
+MCSU-2
+Rescue Squad 2
+Support Unit
+Confined Space Unit",70 71,Georgia Ave-Petworth,38.9521442,-77.02703227,397645.62,142690.14,251752,Fire_010,{1CFCA49F-8D6B-4A6A-8764-78A01DEF08CC},13,,,
+-8571687.8816559,4699231.01074197,Engine Company 25,3203 MARTIN LUTHER KING JR AVENUE SE,20032,(202) 673-3225,Engine House 25,3,8,"Organized: July 2, 1913 Replaced Chemical 5.
+
+Original apparatus: 1913 Ahrens Fox 700 gpm combination pumper hose wagon. Ran single piece combination. Original two piece Apparatus: 1919 DCFD Shop built 50 gallon Combination Chemical Hose Wagon. 1913 Ahrens Fox 700 gpm pumper.
+
+Location: 3203 Nichols Ave. SE in Chemical 5 firehouse (now Martin Luther King Ave. SE).
+
+Current Apparatus: 2006 Seagrave 1250 gpm pumper.
+
+Engine 25
+Medic Unit 25
+Mass Decon",A2-8 A42-48,Congress Heights,38.84315633,-77.00078007,399932.28,130595.23,278344,Fire_003,{67092CC0-15F9-4BAD-AA91-B4F7607B5717},14,,,
+-8570128.08601901,4710904.73002264,Engine Company 26,1340 RHODE ISLAND AVENUE NE,20018,(202) 673-3226,Engine House 26,1,5,"Organized: July 9, 1913 Replaced 2nd Chemical 3.
+
+Original apparatus: 1908 Robinson 70 gallon Combination Chemical Hose Wagon. 1893 Clapp & Jones 600 gpm steam fire engine.
+
+1st Location: 2700 22nd Street in Chemical 3 firehouse.
+
+2nd Location: 1340 Brentwood Rd. NE with Truck Co. 15 (address changed to Rhode Island Ave. NE.
+
+Current apparatus: 2008 Seagrave 1250 gpm pumper.
+
+Engine 26
+Ambulance 26
+Truck Company 15",B8 B9,Rhode Island Ave-Brentwood,38.92469713,-76.986772,401147.38,139656.9,294518,Fire_009,{675A6448-2375-4E5A-AE26-D0FE0B725F98},15,,,
+-8565031.75815983,4707829.0263943,Engine Company 27,4409 MINNESOTA AVENUE NE,20019,(202) 673-3227,Engine House 27,2,7,"Organized: December 2, 1908 Replaced 2nd Chemical 1.
+
+Original apparatus: 1903 American LaFrance 70 gallon Combination Chemical Hose Wagon. 1906 American LaFrance Metropolitan 500 gpm steam fire engine.
+
+Location: 4409 Minnesota Ave. NE in Chemical 1 firehouse.
+
+Current apparatus: 2019 Pierce 1500 GPM Pumper.
+
+Engine 27
+Ambulance 27
+Medic Unit 27",V7 V8 V9,Minnesota Ave,38.90328836,-76.94098711,405118.77,137271.99,310943,Fire_007,{9DF99EE5-39C0-4303-BCCD-90C055CD4239},16,,,2023/11/08 00:47:31+00
+-8578213.82341553,4712558.7178555,Engine Company 28,3522 CONNECTICUT AVENUE NW,20008,(202) 673-3228,Engine House 28,5,3,"Organized: December 1, 1916.
+
+Original Apparatus: 1915 American LaFrance 50 gallon Combination Chemical Hose Wagon. 1915 American LaFrance 750 gpm pumper.
+
+Location: 3522 Connecticut Ave. NW.
+
+Current Apparatus: 2003 Seagrave 1250 gpm pumper.
+
+Engine 28
+Ambulance 28
+Truck Company 14",H5,Cleveland Park,38.93634476,-77.05940357,394849.73,140941.55,220960,Fire_014,{FAFED40F-0BC1-4529-8093-FF867C776FD8},17,,,
+-8582012.05208929,4709585.30604819,Engine Company 29,4811 MACARTHUR BOULEVARD NW,20007,(202) 673-3229,Engine House 29,5,3,"Organized: December 1, 1925.
+
+Original Apparatus: 1919 American LaFrance 50 gallon Combination Chemical Hose Wagon. 1919 American LaFrance 750 gpm pumper.
+
+Location: 4811 Conduit Rd. NW (now MacArthur Blvd.)
+
+Current Apparatus: 2003 Seagrave 1250 gpm pumper.
+
+Engine 29
+Ambulance 29
+Truck Company 5
+Gator 2",D5,Woodley Park-Zoo/Adams Morgan,38.91556502,-77.09352363,391889.17,138637.3,284959,Fire_017,{453E2590-C6F9-4424-8A98-3C3ADFB16388},18,,,
+-8564186.75992787,4706027.76718487,Engine Company 30,50 49TH STREET NE,20019,(202) 673-3230,Engine House 30,2,7,"Organized: March 27, 1955.
+
+Original Apparatus: 1939 Buffalo 750 gpm combination pumper hose wagon. 1936 Pirsch 750 gpm pumper.
+
+Location: 50 49th Street NE.
+
+Current Apparatus: 2006 Seagrave 1250 gpm pumper.
+
+Engine 30
+Ambulance 30
+Truck Company 17
+Medic Unit 30",U5 U6,Benning Road,38.89069333,-76.9333181,405778.21,135874.49,156317,Fire_006,{27BFB709-1E4F-4A2D-AC6A-F98A39042FF5},19,,,
+-8579383.41688989,4715120.10931395,Engine Company 31,4930 CONNECTICUT AVENUE NW,20008,(202) 673-3231,Engine House 31,5,3,"Organized: November 28, 1930.
+
+Original Apparatus: 1931 American LaFrance 300 gpm Booster Hose Wagon. 1931 American LaFrance 750 gpm pumper.
+
+Location: 4930 Connecticut Ave. NW.
+
+Current Apparatus: 2003 Seagrave 1250 gpm pumper.
+
+Engine 31
+Medic Unit 31",L1 L2 L4,Tenleytown-AU,38.95424021,-77.0699102,393940.33,142928.75,294604,Fire_015,{921E759F-5E03-43BC-8BD0-CA50FBF4ABCD},20,,,
+-8568413.51246176,4700586.55188974,Engine Company 32,2425 IRVING STREET SE,20020,(202) 673-3232,Engine House 32,3,8,"Organized: October 12, 1957.
+
+Original Apparatus: 1957 Mack 750 gpm pumper. 1955 Ward LaFrance 750 gpm pumper.
+
+Location: 2425 Irving Street SE.
+
+Current Apparatus: 2006 Seagrave 1250 gpm pumper.
+
+Engine 32
+Ambulance 32
+Truck Company 16",W2 W3,Congress Heights,38.85266817,-76.97136786,402485.48,131648.37,47304,Fire_004,{24544A28-AEA1-408C-97E1-91BBEA293916},21,,,
+-8572174.05361319,4697478.70778649,Engine Company 33,101 ATLANTIC STREET SE,20032,(202) 673-3233,Engine House 33,3,8,"Organized: January 11, 1987.
+
+Original Apparatus: 1971 Ford/Young 750 gpm pumper 1965 Pirsch 750 gpm pumper.
+
+Location: 101 Atlantic Street SE.
+
+Current Apparatus: 2006 Seagrave 1250 gpm pumper.
+
+Engine 33
+Ambulance 33
+Truck Company 8
+Medic Unit 33
+MCU 2
+MAB 3",A2-8 A42-48,Congress Heights,38.8309331,-77.00524451,399553.06,129234.15,294471,Fire_032,{6194E9B6-00B2-490B-AD24-01779CDF5EF9},22,,,
+-8570813.15321539,4713540.50830708,Fire and Police Clinic,920 VARNUM STREET NE,20032,(202) 269-7433,Clinic,1,5,"The Medical Services Office is within the Risk Management Division of the Department. It is located on the ground of Providence Hospital in North East Washington, D.C. Medical services are provided to members of the department, both uniform and civilian, through a contractual agreement with Police & Fire Clinic Associates, LLC.
+
+The main goal of the Medical Services Office is to see that members receive proper, professional healthcare in order to keep them as healthy, active, contributing members of the service. Some examples of the care offered are annual physicals, cardiac stress testing, referrals to outside specialty providers and physical therapy.",80,Brookland-CUA,38.943205,-76.992922,400613.58,141701.41,289075,Fire_036,{29AC7B5C-6CB1-45DC-8168-8400AC363B13},23,,,
+-8573921.96492618,4703622.39079273,Fire Boat,550 WATER STREET SW,20024,(202) 673-3200,Boat,6,6,"1920 - Present
+
+2nd Location: Maine Ave. & N Street SW on September 10, 1946
+
+Fire Boat 2 added in 1981 (manned by Fire Boat crew)
+
+Original Apparatus: 1965 Coast Guard Utility Boat with 225 gpm pump
+
+Current Apparatus:  Fire Boat 1: 1962/2004 Dies Ship custom 5000 gpm fireboat
+
+Fire Boat 2: 2006 Metal Craft 30 custom 1750 gpm fireboat
+
+Fire Boat 3
+
+Fire Boat 4
+
+Fire Boat Support Unit ",70 71,Waterfront-SEU,38.87387473,-77.02084918,398190.8,134005.4,294491,Fire_037,{B6290012-2DF0-456B-AA19-09800633977E},24,,,
+-8572540.03302723,4707503.29720716,Fire Prevention,899 NORTH CAPITOL STREET NE,20002,(202) 727-1600,Fire Prevention,2,6,"The Fire Prevention Division of the DC Fire & EMS Department, is located at 1100 4th St. SW, Suite E-700 in the Waterfront Complex.  The office is conveniently located on the Metrorail Green line at the Waterfront/SEU metro stop.   The office is home to the fire marshal's office, public education office, Juvenile Fire setter's counseling, and most importantly the permit center.  All fire prevention permits, inspection fees, and service requests are handled at our 2nd floor permit center location.  Residents requesting basic fire incident reports (NFIRS) for incidents occurring in their legal residences can obtain these at the permit center as well.",80,Union Station,38.90101123,-77.00843507,399268.32,137017.59,308942,Fire_038,{5BE639CE-8D89-4D87-A049-3DD5E846F82D},25,,,2024/12/04 21:39:21+00
+-8572540.03302723,4707503.29720716,Fire and EMS Headquarters,899 NORTH CAPITOL STREET NE,20002,(202) 673-3320,Headquarters,4,6,Fire and Ems Headquarter located in  U Street-Cardozo Metro Station,80,Union Station,38.90101123,-77.00843507,399268.32,137017.59,308942,Fire_034,{AB2085A6-4C71-4F0B-AB0D-2EDD001DDE46},26,,,2024/12/04 21:39:21+00
+-8574942.36988595,4707832.2171323,Homeland Security Special Operations,1018 13TH STREET NW,20005,2026736614,Company,4,2,"The mission of the Special Operations Division is to provide a coordinated response to unique Hazmat, WMD and technical rescue situations through the application of highly trained and specialized resources. This is accomplished in accordance with and in relation to; &ldquo;all hazard&rdquo; planning and preparedness; special event coordination, CBRNE counter-measures and integration with various City, State, Regional and Federal/DOD partners.",,,-77.03001561,38.90331067,397396.45,137273.24,240645,Fire_039,{4666F0AD-7DF1-42FC-80F7-56BC1147E91F},27,,,2024/12/04 22:10:00+00
+-8571944.67024556,4696479.6820006,Patricia R. Harris,4600 LIVINGSTON ROAD SE,20032,(202) 673-6901,Recruit Processing,3,8,"Recruit Processing Academy located in old Patricia R Harris elementary school provide CPR training, AED , First Aid and C-Pad training.",,"Southern Avenue, Anacostia",38.823904,-77.003087,399731.95,128458.05,294600,Fire_040,{5559CA03-1EBA-46BA-85E3-19C5B1B65D62},28,,,
+-8567378.02233613,4710086.08248986,Property Management,3170 V STREET NE,20018,(202) 673-4406,Warehouse,1,5,"The Logistics Section provides the following services: medical, office, household, work and dress uniforms; issues PPE, approves property disposal actions and requests for surplus property.",B2,Rhode Island Ave-Brentwood,38.919065,-76.962064,403289.84,139022.37,287707,Fire_041,{41614185-FCD4-4DE6-B6CF-41433FBF6FB9},29,,,
+-8573391.12020189,4695998.2992202,Training Academy,4600 SHEPHERD PARKWAY SW,20036,(202) 673-3245,Training Academy,3,8,"The Training Academy (FEMS-TA) offers courses in many areas including hazardous materials response, Pre-hospital emergency patient care and general fire service training. The general fire service training areas include fire suppression, technical rescue, incident command, fire instructor development, fire officer development, firefighter health and safety. Emergency patient care courses include emergency medical technician basic (EMT), EMT - Intermediate, cardio-pulmonary resuscitation and advanced life support related courses.",A4 or A5,Anacostia,38.820535,-77.016081,398603.56,128084.18,295479,Fire_042,{13F96804-EAFA-4D7C-B62B-12044CC79D1F},30,,,
+-8572540.03302723,4707503.29720716,DC FEMS Human Resources,899 NORTH CAPITOL STREET NE,20002,(202) 673-7580,Human Resources,4,6,"The DC Fire and Emergency Medical Services Department Human Resources Division serves as the liaison office between the Agency and DC Department of Human Resources (DCHR).
+
+The main goal of the Human Resources office is to provide human resources services to all employees of the Department.This includes recruitment - advertising positions, conducting job fairs, responding to all HR questions relating to appointments, promotions, terminations, etc. In addition, provides position classification assistance in developing, creating and recertifying position descriptions, provides advisory services and counseling to management and employees and is responsible for data cleansing employees' records in the PeopleSoft System.",80,Union Station,38.90101123,-77.00843507,399268.32,137017.59,308942,Fire_043,{71D87ABC-D920-4436-A866-6BA529631E0B},31,,,2024/12/04 21:39:21+00
+-8577133.12709608,4708142.88609502,Engine Company 01,2225 M STREET NW,20007,(202) 673-3201,Engine House 1,6,2,"Organized: July 1, 1864 Washington City Fire Department.
+
+Original Apparatus: 1867 John Rodgers Hose Reel Carriage 1866 Amoskeag 600 gpm steam fire engine.
+
+Became District of Columbia Fire Department September 23, 1871.
+
+1st Location: 19th & H Streets NW in the old Union Fire Company firehouse.
+
+2nd Location: New firehouse at 1643 K Street NW on January 5, 1867. Station renovated in the 1950s.
+
+3rd Location: New firehouse at 2225 M Street NW in October 1960 with Truck Co. 2 and 2 Battalion Chief.
+
+Current Apparatus 2003 Seagrave 1250 gpm pumper.
+
+Engine 1
+Ambulance 1
+Truck Company 2
+Medic Unit 1
+TAU2",L1 L2 L4,Foggy Bottom-GWU,38.9054943,-77.049798,395689.55,137515.07,294540,Fire_026,{643ECCCB-28C7-4B5D-AF09-A5027B70F05D},32,,,
+-8573770.29419213,4706940.13478981,Engine Company 02,500 F STREET NW,20001,(202) 673-3202,Engine House 2,6,2,"Organized: July 1, 1864 Washington City Fire Department
+
+Original Apparatus: Unknown make Hose Reel Carriage 1866 Amoskeag 600 gpm steam fire engine.
+
+Became District of Columbia Fire Department September 23, 1871.
+
+1st Location: 1204 D Street NW in old Franklin Fire Company firehouse.
+
+2nd Location: 15th & D Streets NW on January 5, 1897.
+
+3rd Location: 719 12th Street NW on November 9, 1910.
+
+4th Location: 500 F Street NW on May 31, 1979. Current Apparatus 2002 Seagrave 1250 gpm pumper.
+
+Engine 2
+Rescue Squad 1
+Medic Unit 2
+BFC 6
+EMS 6
+Field Command Unit
+Mobile Command Unit
+RS1 Support Unit",D1 D3 D6,Judiciary Square,38.89707407,-77.01948669,398309.58,136580.68,299998,Fire_022,{79F81968-687D-4054-81CD-DAE889CB056A},33,,,2024/12/04 22:10:00+00
+-8572814.47513283,4706762.83114751,Engine Company 03,439 NEW JERSEY AVENUE NW,20001,(202) 673-3203,Engine House 3,6,6,"Organized: July 1, 1864 Washington City Fire Department
+
+Original Apparatus: Unknown make Hose Reel Carriage 1866 Amoskeag 600 gpm steam fire engine.
+
+Became District of Columbia Fire Department September 23, 1871.
+
+1st Location: New Jersey Ave. & B Street SE in old Columbia Fire Company firehouse.
+
+2nd Location: New firehouse at Delaware Ave. & C Streets NE on May 1, 1875.
+
+3rd Location: New firehouse at 439 New Jersey Ave. NW with Truck Co. 1 on November 26, 1916.
+
+Current Apparatus: 2002 Seagrave 1250 gpm pumper.
+
+Engine 3
+Medic 3
+WS-E-52",D1 D3 D6,Union Station,38.89583446,-77.01090043,399054.4,136442.95,237163,Fire_035,{15EE2A8D-116F-427C-BF41-66365D01A695},34,,,
+-8574386.83811991,4710705.83420684,Engine Company 04,2531 SHERMAN AVENUE NW,20001,(202) 673-3204,Engine House 4,4,1,"Organized: February 21, 1870 Washington City Fire Department. Known as South Washington Fire Co. No. 4.
+
+Original Apparatus: 1867 John Rodgers Hose Reel Carriage 1870 Silsby 600 gpm steam fire engines ""Sayles J. Bowen"".
+
+Became District of Columbia Fire Department September 23, 1871.
+
+1st  Location: New firehouse at 4 th Street & Virginia Ave. SW.
+
+2nd Location: In old Engine Co. 7 house at 931 R Street NW on September 12, 1940.
+
+3rd Location: New firehouse at 2531 Sherman Ave. NW with Rescue Squad 2. Current Apparatus 2006 Seagrave 1250 gpm pumper.
+
+Engine 4
+Special Operations Battalion Fire Chief
+Safety Officer
+Ambulance 4
+Air Unit 1
+Mass Decon
+EMS 7
+CSU-4",66 68,U Street/African-Amer Civil War Memorial/Cardozo,38.92339656,-77.02502519,397829.93,139502.81,232303,Fire_011,{BE0122CD-9E26-4FCC-839A-BBB83851D6C7},35,,,
+-8579219.2946536,4708994.85835192,Engine Company 05,3412 DENT PLACE NW,20007,(202) 673-3205,Engine House 5,5,2,"Organized: April 1, 1867 as Georgetown Fire Department Engine Co. 1.
+
+Original Apparatus: 1867 McDermott Hose Reel Carriage 1867 Amoskeag 600 gpm steam fire engine ""Henry Addison"".
+
+Became District of Columbia Fire Department Engine Co. 5 on September 23, 1871.
+
+1st Location: High Street Georgetown (Wisconsin Ave. NW) in the old Vigilant Fire Company firehouse.
+
+2nd Location: 3210 M Street NW in the old Georgetown City Hall on November 17, 1883.
+
+3rd Location: With Truck Co. 5 at 3412 Dent Place NW on July 2, 1940.
+
+Current Apparatus: 2003 Pierce 1250 gpm pumper.
+
+Engine 5
+Canteen Unit 1
+Rehab Unit
+Medic 5",D2,Foggy Bottom-GWU,38.91143794,-77.06843588,394064.56,138177.23,294568,Fire_018,{487DF5F1-41C5-4B33-BACB-19B8C82B3681},36,,,
+-8573390.79254927,4708458.76548232,Engine Company 06,1300 NEW JERSEY AVENUE NW,20001,(202) 673-3206,Engine House 6,1,2,"Organized: February 17, 1879.
+
+Original Apparatus: 1878 McDermott Hose Reel Carriage 1876 Clapp & Jones 550 gpm steam fire engine ""Thomas P. Morgan"".
+
+1st Location: 438 Massachusetts Ave. NW in old Metropolitan Hook & Ladder Truck No. 1 firehouse.
+
+2nd Location: New firehouse 1300 New Jersey Ave. NW. with Truck Co. 4 and Rescue Squad No. 1.
+
+Current Apparatus: 2005 Seagrave 1250 gpm pumper.
+
+Engine 6
+Ambulance 6
+Truck 4",96 97,Mt Vernon Sq 7th St-Convention Center,38.90769057,-77.01607757,398605.52,137759.14,294514,Fire_028,{4E1E2443-6E97-4F20-A0DC-B4CD87919F18},37,,,
+-8572851.13946442,4704059.06896025,Engine Company 07,1101 HALF STREET SW,20024,(202) 673-3207,Engine House 7,2,6,"Organized: January 23, 1885.
+
+Original Apparatus: Unknown make Hose Reel Carriage 1885 Clapp & Jones 450 gpm steam fire engine.
+
+1st Location: 431 R Street NW.
+
+2nd Location: With Truck Co. 10 at 347 K Street SW.
+
+3rd Location: New firehouse 1101 Half Street SW.
+
+Current Apparatus: 2006 Seagrave 1250 gpm pumper
+
+Engine 7
+Brush Unit 1
+Medic 7 ",A9,Navy Yard,38.87692863,-77.01122978,399025.57,134344.26,277735,Fire_021,{E9D6F58A-5B9B-4590-B7D5-20CD4F3A0A0B},38,,,
+-8569702.33221499,4705290.48902246,Engine Company 08,1520 C STREET SE,20003,(202) 673-3208,Engine House 8,2,7,"Organized: January 22, 1889.
+
+Original apparatus: Unknown make Hose Reel Carriage 1884 Clapp & Jones 450 gpm steam fire engine.
+
+1st Location: 637 North Carolina Ave. SE.
+
+2nd Location: New firehouse 1520 C Street SE.
+
+Current Apparatus: 2006 Seagrave 1250 gpm pumper.
+
+Engine 8
+Battalion Fire Chief 2
+EMS 2
+Medic 8
+Air 2
+Mass Decon
+CSU-2",96 97,Stadium-Armory,38.88553986,-76.98294358,401479.84,135300.25,289723,Fire_019,{F4245D7B-A756-42D9-88D0-D8D92584AF6F},39,,,2024/12/04 22:10:00+00
+-8575778.36941372,4709833.03001837,Engine Company 09,1617 U STREET NW,20009,(202) 673-3209,Engine House 9,4,1,"Organized: September 6, 1893.
+
+Original apparatus: 1893 E.B. Preston Hose Reel Carriage 1893 American/Clapp & Jones 600 gpm steam fire engine.
+
+1st Location: 1624 U Street NW.
+
+2nd Location: New firehouse 1617 U Street NW.
+
+Current apparatus: 2003 Seagrave 1250 gpm pumper.
+
+Engine 9
+Ambulance 9
+Truck Company 9 ",90 92 93,U Street/African-Amer Civil War Memorial/Cardozo,38.91729647,-77.03752553,396745.68,138826.02,241846,Fire_025,{C74DD6A3-BE66-45FC-971C-639EA9719073},40,,,
+-8570119.85101627,4707585.70126578,Engine Company 10,1342 FLORIDA AVENUE NE,20001,(202) 673-3210,Engine House 10,1,5,"Organized: July 2, 1895.
+
+Original apparatus: 1895 McDermott Hose Reel Carriage 1884 Clapp & Jones 450 gpm steam fire engine.
+
+1st Location: 1341 Maryland Ave. NE.
+
+2nd Location: With Truck Co. 13 at 1342 Florida Ave. NE.
+
+Current apparatus: 2005 Seagrave 1250 gpm pumper.
+
+Engine 10
+Medic 10
+Truck Company 13 ",90 92 93,New York Ave-Florida Ave-Gallaudet U,38.9015873,-76.986694,401154.17,137081.59,294519,Fire_029,{28734316-8233-446B-BDEA-9A5613FBFFBE},41,,,
+-8572815.79284699,4704035.75799368,Apparatus,1103 HALF STREET SW,20024,(202) 673-3240,Fleet,2,6,Fleet procures and repairs the apparatus used by the department.,P2,Waterfront-SEU,38.87692863,-77.01122978,399053.12,134326.16,307195,Fire_044,{E0948979-68B7-45B3-AB17-F60A14E8AD36},42,,,
+-8571510.26418516,4710207.47513325,Engine Company 12,2225 5TH STREET NE,20002,(202) 673-3212,Engine House 12,1,5,"Organized: July 1, 1897.
+
+Original apparatus: 1887 E.B. Preston Hose Reel Carriage 1884 Clapp & Jones 450 gpm steam fire engine.
+
+1st Location: 1626 North Capitol Street NW.
+
+2nd Location: New firehouse 2225 5th Street NE with the Hazardous Material Unit and the 1st Battalion Chief.
+
+Current apparatus: 2003 Pierce 1250 gpm pumper.
+
+Engine 12
+Battalion Fire Chief 1
+EMS 1
+Ambulance 12
+Haz Mat Unit
+HMU-2
+Gator 1
+CSU-1",D8,Rhode Island Ave-Brentwood,38.91991356,-76.9991845,400070.72,139115.87,294541,Fire_030,{6271650D-A0F4-4354-BADE-9AD2C25D5D8E},43,,,
+-8568754.61692718,4710073.25977,Ready/Reserve,2215 ADAMS PLACE NE,20018,(202)- 673-2277,Fleet Holding Facility,1,5,"This facility will be utilized to house and set-up new vehicles for deployment into the FEMS fleet, also acting as a holding facility for vehicles being retired from the fleet.",B2,Rhode Island Ave-Brentwood,38.91891902,-76.97366331,402283.94,139005.76,307098,Fire_033,{14D80648-39D7-4E47-AF68-97CD09ECCD86},44,,,
